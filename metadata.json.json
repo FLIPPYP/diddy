@@ -1,0 +1,30 @@
+{
+  "name": "DIDDYCOIN",
+  "symbol": "DIDDY",
+  "uri": "https://raw.githubusercontent.com/FLIPPYP/diddy/main/diddycoin_details.json", // URI zur detaillierten JSON-Datei
+  "seller_fee_basis_points": 100, // 1% Verkaufsgebühren (100 Basis-Punkte)
+  "creators": [
+    {
+      "address": "EjZRabz8GgWkvG4GuZQFDq6Zk8YfC1JEw8ZA5p2Z6TRb", // Deine Wallet-Adresse
+      "share": 100 // 100% Anteil an den Verkäufen
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/FLIPPYP/diddy/main/logo.png", // Link zum Logo
+  "description": "DIDDYCOIN ($DIDDY) is a new meme coin focused on community and fun while making OIL!", // Beschreibung
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/FLIPPYP/diddy/main/logo.png", // Link zum Logo
+        "type": "image/png" // Dateityp des Logos
+      }
+    ],
+    "category": "image", // Kategorie des Hauptinhalts
+    "creators": [
+      {
+        "address": "EjZRabz8GgWkvG4GuZQFDq6Zk8YfC1JEw8ZA5p2Z6TRb", // Deine Wallet-Adresse
+        "share": 100 // 100% Anteil an den Verkäufen
+      }
+    ]
+  },
+  "token_address": "6JKzjGwUC8dYnoXHHoZDoEWJW13CTyDdh8UtcW7nP3a5" // Token-Adresse
+}
